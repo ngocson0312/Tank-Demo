@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34dedefffeb40f543a117b05c6fc9cd7, type: 3}
+  m_Name: Enemy Turret Data
+  m_EditorClassIdentifier: 
+  bulletPrefab: {fileID: 2979604491062277904, guid: 7e4d357d70e249042842a0813275301f, type: 3}
+  reloadDelay: 1.2
+  bulletData: {fileID: 11400000, guid: 0ee2c2c282bebd84cba65fb15ed2e0b2, type: 2}

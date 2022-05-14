@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - KitHealth
+  - Bullet02
+  - StaticEnemy
+  - PatrollingEnemy
+  - PatrollingEnemyBOT
+  - BulletMaxDamage
+  - PointFinal
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Bullet
+  - Agent
+  - Hittable
+  - ObstancleMovement
+  - Player
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 3812512437
+    locked: 0
+  - name: DetailsBottom
+    uniqueID: 1219775797
+    locked: 0
+  - name: Obstancle
+    uniqueID: 4235332067
+    locked: 0
+  - name: Enemies
+    uniqueID: 3870526579
+    locked: 0
+  - name: Items
+    uniqueID: 355096005
+    locked: 0
+  - name: Bullets
+    uniqueID: 97227221
+    locked: 0
+  - name: SpecialEffects
+    uniqueID: 3669469269
+    locked: 0
+  - name: DetailsTop
+    uniqueID: 2080402799
+    locked: 0
+  - name: Player
+    uniqueID: 251843167
+    locked: 0
+  - name: UI
+    uniqueID: 2663955427
+    locked: 0
